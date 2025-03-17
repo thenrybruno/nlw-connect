@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# NLW CONNECT
+<br>
 
-## Getting Started
+<img src="/imgReadme.png"></img>
 
-First, run the development server:
+<br>
 
-```bash
+Bem-vindo ao projeto front-end do NLW Connect, projeto desenvolvido juntamente da escola de programação RocketSeat, onde desenvolvemos uma página de convites para um evento fictício, onde através da URL, temos a contagem automática de um ranking para o usuário com mais inscrições atráves de seu link.
+
+<br>
+
+## 📖 Índice
+- [Instalação](#installation)
+- [Tecnologias Utilizadas](#techs-used)
+- [Desenvolvimento](#team)
+
+## Instalação <a name="installation"></a>
+Para instalar o projeto, será necessário algum gerenciador de pacotes JavaScript (NPM, Yarn, PNPM, Bun...).
+
+Primeiro, abra sua linha de comando e digite a seguinte linha:
+```
+git clone https://github.com/thenrybruno/nlw-connect.git
+```
+
+E em seguida:
+```
+cd nlw-connect
+```
+
+Já na root do projeto, baixe as dependências com o seu comando de instalação (com base noseu gerenciador de pacotes):
+
+```
+npm install
+
+yarn install
+
+bun install
+```
+Após isso, podemos enfim lançar o projeto:
+```
 npm run dev
-# or
+
 yarn dev
-# or
-pnpm dev
-# or
+
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Acessando a URL fornecida pelo Next, poderemos utilizar a aplicação, integrada com a API.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tecnologias Utilizadas <a name="techs-used"></a>
+- [Lucide React](https://lucide.dev/guide/packages/lucide-react)
+- [NextJS](https://nextjs.org/)
+- [React](https://react.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Zod](https://zod.dev/)
 
-## Learn More
+## Desenvolvimento <a name="team"></a>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Bruno Almeida](https://github.com/thenrybruno)
