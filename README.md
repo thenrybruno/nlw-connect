@@ -1,7 +1,7 @@
 # NLW CONNECT
 <br>
 
-<img src="/imgReadme.png"></img>
+<img src="https://imgur.com/a/FMCV2fk"></img>
 
 <br>
 
