@@ -1,7 +1,7 @@
 # NLW CONNECT
 <br>
 
-<img src="https://imgur.com/a/FMCV2fk"></img>
+<a href="https://imgur.com/gebaEXp"><img src="https://i.imgur.com/gebaEXp.png" title="source: imgur.com" /></a>
 
 <br>
 
